@@ -1,0 +1,16 @@
+name: CashPlugin
+main: skh6075\cashplugin\CashPlugin
+author: AvasKr
+version: 1.0.0
+api: 3.10.0
+website: https://github.com/GodVas
+
+permissions:
+  seecash.permission:
+    default: true
+  addcash.permission:
+    default: op
+  reducecash.permission:
+    default: op
+  setcash.permission:
+    default: op
